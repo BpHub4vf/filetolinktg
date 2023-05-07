@@ -6,4 +6,4 @@ class Config:
     CHANNEL = int( os.getenv("channel_files_chat_id","-1001249461809") )
     CHANNEL_USERNAME = os.getenv("channel_username","UserLandapp")
     TOKEN = os.getenv("token","xxxxx")
-    DOMAIN  = os.getenv("domain","https://newdlstar.herokuapp.com")
+    DOMAIN  = os.getenv("domain","https://newdlstar.mogeniusapp.com")
